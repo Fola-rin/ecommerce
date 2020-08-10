@@ -1,0 +1,76 @@
+body{
+	margin:0;
+	background-color:black;
+	color:white;
+	font-family: sans-serif;
+}
+.main-content{
+	background-color: white;
+	border-radius: 70px 70px 0px 0px;
+	height: 40rem;
+	padding: 0;
+	height: ;
+}
+header {
+	padding:40px;
+	margin:10px;
+	margin-bottom: 100px;
+}
+.menu-icon{
+	width:64px;
+	height:66px;	
+	color:white;
+}
+.image-man {
+	width:150px;
+	height:150px;
+	border-radius: 100%;
+	float: right;
+}
+
+.top-content {
+	padding: 0 40px;
+}
+h2{
+	font-size: 3rem;
+}
+.top-content-price{
+	font-size: 7rem;
+}
+.dollar-sign{
+	font-size: 5rem;
+}
+
+.main-content{
+	background-color: white;
+	border-radius: 70px 70px 0px 0px;
+	height: 40rem;
+	padding: 40px;
+	color:black;
+	position: relative;
+}
+.bills {
+	font-size: 3rem;
+}
+.b4upay {
+	font-size: 1.7rem;
+}
+.main-content-price {
+	font-size: 1.7rem;
+	color:grey;
+	position: relative;
+	left:500px;
+}
+#services-logo {
+	width: 90px;
+	height:95.42px;
+}
+#services-object {
+	display: inline;
+
+}
+#services-object.github {
+	width: 100%;
+	height:100%;
+	background-color: blue;
+}
